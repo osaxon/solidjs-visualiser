@@ -1,0 +1,24 @@
+body {
+	background-color: black;
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	position: relative;
+	z-index: 0;
+	color: white;
+}
+
+svg {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 50;
+}
+
+.title {
+	position: absolute;
+	width: 100vw;
+	text-align: center;
+}
